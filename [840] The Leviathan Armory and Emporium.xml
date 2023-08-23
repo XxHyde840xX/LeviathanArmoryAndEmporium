@@ -39,6 +39,10 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =========================
 
+<li>Choice Chops Dependencies!</li> <!-- COMPLETE - CHOICE CHOPS - NEED TO KEEP UPDATED -->
+
+=========================
+
 <li>Gokusotsu Floordrawings</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
 
 =========================
@@ -63,12 +67,53 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>https://gitlab.com/nightcorp/dbh-vfec-thermae-compatibility</li>
-		<li>Combine this with Thermae Sounds & Hot-Springs/VE-Texture Variations</li>
-		
+<li>RimmuNation RePlucked!</li>
+
 =========================
 
-<li>Yukusukyuru</li>
+<li>Double Minigun</li> <!-- PROJECT! -->
+	
+	<li>Switch from lethal to non-lethal</li>
+		<li>Reference: Lycoris Recoil Pistol</li>
+
+=========================
+
+
+<li>Psiamin</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
+
+=========================
+
+<li>Challanger - Vehicle</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
+
+=========================
+
+<li>XSTAT</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
+
+=========================
+
+<li>Responders Mod</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
+
+=========================
+
+<li>Stabilized Mechanites</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Badge Master</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
+
+=========================
+
+<li>All The Hot Springs!</li> <!-- PROJECT! -->
+
+<li>https://gitlab.com/nightcorp/dbh-vfec-thermae-compatibility</li>
+		<li>Combine this with Thermae Sounds & Hot-Springs/VE-Texture Variations</li>
+			<li>Reference for VE-Tex Patching</li>
+				<li>https://steamcommunity.com/sharedfiles/filedetails/?id=2797808742</li>
+				
+=========================
+
+<li>Yukusukyuru</li> <!-- PROJECT! -->
+	
 	<li>Resource Muffaloes As Template</li>
 	
 =========================
@@ -77,44 +122,45 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Breacher Artillery Retexture</li>
+<li>Breacher Artillery Retexture</li> <!-- PROJECT! -->
 
 =========================
 
-<li>CAG - Secondary Goggles</li>
+<li>CAG - Secondary Goggles</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Carbonite</li>
+<li>Carbonite</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Empire of Straeax<li>
+<li>LSR - Leviathan Star Empire<li> <!-- PROJECT! -->
+	
+	<li>Use Empire of Streaex / House of Dawn as Template</li>
 
 =========================
 
-<li>Patricia's Misc Consumables</li>
-	<li>Talk to Pat about doing a collab or something</li>
-
-<li>Futurama</li>
+<li>Futurama</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Jim Carrey Movies</li>
+<li>Jim Carrey Movies</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Crash Bandicoot Suit</li>
-<li>Aku Aku Mask</li>
-<li>Uka Uka Mask</li>
+<li>Crash Bandicoot Suit</li> <!-- PROJECT! -->
+	
+	<li>Aku Aku Mask</li>
+	<li>Uka Uka Mask</li>
 
 =========================
 
-<li>Forrest Gump</li>
+<li>Forrest Gump</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Attack on Titan</li>
+<li>Attack on Titan</li> <!-- PROJECT! -->
+	
 	<li>Zacly's "Poop Chair" for VintageNuke</li>
 
 	<li>Mod Integrations</li>
@@ -134,7 +180,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 =========================
 
-<li>Cowboy Bebop</li>
+<li>Cowboy Bebop</li> <!-- PROJECT! -->
 
 	<li>Ships</li>
 		<li>Already have stuff working for SRTS. Need to convert to VF</li>
@@ -144,52 +190,67 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Glowsticks</li>
+<li>Glowsticks</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Golden Kamuy</li>
+<li>Golden Kamuy</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Canada / Canadian Stuff</li>
+<li>Canada / Canadian Stuff</li> <!-- PROJECT! -->
+	
 	<li>Ice Skating and Hockey</li>
-
-=========================
-
-<li>Restaurant / Drive-Thru</li>
-	<li>Convenience Store</li>
-		<li>Clerks</li>
-
-=========================
-
-<li>AOC Trampoline & Kotatsu x2</li>
-
-=========================
-
-<li>Theatre-Screen / Drive-In</li>
-
-=========================
-
-<li>Capsule Corp</li>
-
-=========================
-
-<li>Brrrt on a Swegway!</li>
-
-=========================
-
-<li>LSR</li>
-	<li>Use Empire of Streaex / House of Dawn as Template</li>
+	
+	<li>Avro Arrow</li>
+	
+	<li>Patricia's Misc Consumables</li>
+		<li>MAPLE COLLAB</li>
+	
+	<li>Poutine</li>
+	
+	<li>Terrence & Phillip</li>
+	
+	<li>Snowmobile</li>
 	
 =========================
 
-<li>Titanfall</li>
-	<li>Armor / Smart-Pistol / Mechs</li>
+<li>Restaurant / Drive-Thru</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Convenience Store</li> <!-- PROJECT! -->
+	<li>Clerks</li>
+
+=========================
+
+<li>AOC Trampoline & Kotatsu x2</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Theatre-Screen / Drive-In</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Capsule Corp</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Brrrt on a Swegway!</li> <!-- PROJECT! -->
 	
 =========================
 
-<li>Psycho-Pass</li>
+<li>Titanfall</li> <!-- PROJECT! -->
+	
+	<li>Armor</li>
+
+	<li>Smart-Pistol</li>
+
+	<li>Mechs</li>
+	
+=========================
+
+<li>Psycho-Pass</li> <!-- PROJECT! -->
 	
 	<li>Domintaor + Variants</li>
 		<li>Already have pistol template</li>
@@ -205,89 +266,110 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 =========================
 
-<li>LOGTH</li>
+<li>LOGTH</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Samurai Champloo</li>
+<li>Samurai Champloo</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Space Dandy</li>
+<li>Space Dandy</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Redline</li>
+<li>Redline</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Classical Music Expanded</li>
+<li>Classical Music Expanded</li> <!-- PROJECT! -->
 
 =========================
 
-<li>FF7</li>
-	<li>Buster Sword exists. Need to "De-Jecs" the mod</li>
-
+<li>FF7</li> <!-- PROJECT! -->
+	
+	<li>Buster Sword & HardedgeNeed to "De-Jecs" the mod</li>
+	
 	<li>Mobs</li>
+	
 	<li>Summons</li>
-	<li>Motorcycle/Gelnika/Truck/Highwind/Tiny Bronco</li>
+	
+	<li>Vehicles</li>
+		<li>Motorcycle</li>
+			<li>Gelnika</li>
+				<li>Truck</li>
+					<li>Highwind</li>
+						<li>Tiny Bronco</li>
+							<li>Train</li>
+	
 	<li>Materia</li>
+	
 	<li>Mako</li>
+	
 	<li>Junon Cannon</li>
+	
 	<li>Wall Market</li>
+	
+	<li>Golden Saucer</li>
 	
 =========================
 
-<li>Deadly Condiment (Re; Restaurant that KILLS PEOPLE)</li>
+<li>Deadly Condiment</li> <!-- PROJECT! -->
+
+	<li>Restaurant that KILLS PEOPLE!</li>
 
 =========================
 
-<li>Venture Bros</li>
+<li>Venture Bros</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Vanilla Expanded Evente</li>
+<li>Vanilla Expanded Evente</li> <!-- PROJECT! -->
+	
 	<li>More Purple Events</li>
 	
 =========================
 
-<li>Blade (Wesley Snipes Movies)</li>
+<li>Blade: Trilogy</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Vampire Castle and Faction</li>
+<li>Vampire Castle and Faction</li> <!-- PROJECT! -->
+	
 	<li>Rip Castle Branne Stuff</li>
 	
 =========================
 
-<li>Collectible Zippos</li>
+<li>Collectible Zippos</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Golf Course</li>
+<li>Golf Course</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Rimflix Shows</li>
-	<li>Talk to velcroboy and see if they have the TMNT, Akira, and other clips they mentioned</li>
+<li>Rimflix Shows</li> <!-- PROJECT! -->
+	
+	<li>Talk to velcroboy regarding TMNT, Akira, and other clips</li>
 	
 	<li>Bounty Hunters (Bebop)</li>
 	
 =========================
 
-<li>Akira</li>
+<li>Akira</li> <!-- PROJECT! -->
+
 	<li>Kaneda's Bike + Gear</li>
 	
 =========================
 
-<li>Sidebar Calculator Tool</li>
+<li>Sidebar Calculator Tool</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Skateboard and Skatepark</li>
+<li>Skateboard and Skatepark</li> <!-- PROJECT! -->
 
 =========================
 
-<li>Portuguese Food</li>
+<li>Portuguese Food</li> <!-- PROJECT! -->
 
 =========================
