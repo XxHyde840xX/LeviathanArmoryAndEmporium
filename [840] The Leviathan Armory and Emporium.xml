@@ -37,11 +37,6 @@
 THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCUMENT
 =============================================================================================================================================================================================================
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<li>UPDATE STUFF ON GITHUB AND MAKE CLONES!</li> <!-- NO SERIOUSLY, DO IT! -->
-	<li>ALSO DO ABOUT.XML TEMPLATE!</li>
-		<li>LOOK IN RW FOLDERS</li>
-		
 =========================
 
 <li>Choice Chops Dependencies!</li> <!-- COMPLETE - CHOICE CHOPS - NEED TO KEEP UPDATED -->
@@ -56,7 +51,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>South-Korea's Kimchi & Fried Rice</li> <!-- COMPLETE - ON GITHUB - NEEDS TESTING -->
+<li>South-Korea's Kimchi & Fried Rice</li> <!-- COMPLETE - ON GITHUB - NEEDS TESTING - HAS ISSUES -->
 
 =========================
 
@@ -79,7 +74,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Donkey Box Truck Touch-Ups</li> <!-- PROJECT! -->
+<li>Asian Vehicle Touch-Ups</li> <!-- PROJECT! -->
 
 =========================
 
@@ -200,6 +195,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 <li>Calypso - Mobile Missile Launcher Platform</li> <!-- PROJECT! -->
 	<li>Connect to VE-Security Artillery Mechanic?</li>
 		<li>LGIS from Bill Doors' Glitterworld Weaponry compatibility</li>
+			<li>Rimatomics Integration</li>
 	
 =========================
 
