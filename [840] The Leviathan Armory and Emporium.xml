@@ -39,42 +39,21 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =========================
 
-<li>Choice Chops Dependencies!</li> <!-- COMPLETE - CHOICE CHOPS - NEED TO KEEP UPDATED -->
-
-=========================
-
-<li>Gokusotsu Floordrawings</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Golden Desert Eagle</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
 <li>South-Korea's Kimchi & Fried Rice</li> <!-- COMPLETE - ON GITHUB - NEEDS TESTING - HAS ISSUES -->
+
+=========================
+
+<li>AOC Trampoline</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Big Forks 4 Big Boys</li> <!-- PROJECT! -->
 
 =========================
 
 <li>ROM - Bones Remastered</li> <!-- PROJECT! -->
 	<li>Bones Enchantment</li>
 		<li>Outland - Core</li>
-
-=========================
-
-<li>E.N.I.A.C.</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Artemis Pistol</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Asian Vehicle Touch-Ups</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Steam Vehicle Collection</li> <!-- PROJECT! -->
-	<li>Simeon Yatarian</li>
 
 =========================
 
@@ -87,7 +66,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>BBQ Star - Food Translation</li>
+<li>BBQ Star - Food Translation</li> <!-- PROJECT! -->
 
 =========================
 
@@ -110,27 +89,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Psiamin</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Challanger - Vehicle</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>XSTAT</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
-<li>Responders Mod</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
-
-=========================
-
 <li>Stabilized Mechanites</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Badge Master</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
 
 =========================
 
@@ -145,10 +104,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 <li>Yukusukyuru</li> <!-- PROJECT! -->
 	<li>Resource Muffaloes As Template</li>
-	
-=========================
-
-<li>Phanaeron's PipBoy</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
 
 =========================
 
@@ -157,6 +112,8 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>Hoverboard</li> <!-- PROJECT! -->
+	<li>Skateboard</li>
+		<li>Skatepark</li>
 
 =========================
 
@@ -235,6 +192,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	<li>Existing Templates</li>
 		<li>Car</li>
 			<li>Bus</li>
+				<li>Tank</li>
 
 =========================
 
@@ -279,17 +237,11 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>Restaurant / Drive-Thru</li> <!-- PROJECT! -->
-
+	
 	<li>Vending Machines & Hospitality Integration</li>
 
-=========================
-
-<li>Convenience Store</li> <!-- PROJECT! -->
-	<li>Clerks</li>
-
-=========================
-
-<li>AOC Trampoline & Kotatsu</li> <!-- FIX ME! - CHOICE CHOPS - FIX ME! -->
+	<li>Convenience Store</li>
+		<li>Clerks</li>
 
 =========================
 
@@ -318,7 +270,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 <li>Psycho-Pass</li> <!-- PROJECT! -->
 	
 	<li>Domintaor + Variants</li>
-		<li>Already have pistol template</li>
+		<li>Already have pistol templates</li>
 			<li>Integration w/ Bloody Mess/Death Acidifier</li>
 	
 	<li>Vehicles and Mechs</li>
@@ -332,10 +284,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>LOGTH</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Anima Obelisk</li> <!-- COMPLETE - CHOICE CHOPS - G2G! -->
 
 =========================
 
@@ -436,10 +384,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>Sidebar Calculator Tool</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Skateboard and Skatepark</li> <!-- PROJECT! -->
 
 =========================
 
