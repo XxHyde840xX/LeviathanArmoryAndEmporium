@@ -39,6 +39,29 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =========================
 
+<li>Hyde's Garage</li> <!-- PROJECT! -->
+
+	<li>Calypso - Mobile Missile Launcher Platform</li>
+		<li>Connect to VE-Security Artillery Mechanic?</li>
+			<li>LGIS from Bill Doors' Glitterworld Weaponry compatibility</li>
+				<li>Rimatomics Integration</li>
+			
+
+	<li>Motorcycles</li> 
+
+	<li>Hoverboard</li> 
+		<li>Skateboard</li>
+			<li>Skatepark</li>
+
+	<li>Electric Vehicles</li>
+		<li>Existing Templates</li>
+			<li>Car</li>
+				<li>Bus</li>
+					<li>Tank</li>
+						<li>Bicycle</li>
+
+=========================
+
 <li>South-Korea's Kimchi & Fried Rice</li> <!-- COMPLETE - ON GITHUB - NEEDS TESTING - HAS ISSUES -->
 
 =========================
@@ -82,6 +105,9 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 	<li>Switch from lethal to non-lethal</li>
 		<li>Reference: Lycoris Recoil Pistol</li>
+			<li>Rubber Bullets?</li>
+				<li>Firing Modes</li>
+					<li>Variants</li>
 
 =========================
 
@@ -107,12 +133,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Hoverboard</li> <!-- PROJECT! -->
-	<li>Skateboard</li>
-		<li>Skatepark</li>
-
-=========================
-
 <li>LSR - Leviathan Star Empire<li> <!-- PROJECT! -->
 	<li>Use Empire of Streaex / House of Dawn as Template</li>
 
@@ -128,13 +148,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>Nixie Tubes</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Calypso - Mobile Missile Launcher Platform</li> <!-- PROJECT! -->
-	<li>Connect to VE-Security Artillery Mechanic?</li>
-		<li>LGIS from Bill Doors' Glitterworld Weaponry compatibility</li>
-			<li>Rimatomics Integration</li>
 
 =========================
 
@@ -183,15 +196,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 =========================
 
-<li>Electric Vehicles</li> <!-- PROJECT! -->
-	
-	<li>Existing Templates</li>
-		<li>Car</li>
-			<li>Bus</li>
-				<li>Tank</li>
-
-=========================
-
 <li>Cowboy Bebop</li> <!-- PROJECT! -->
 
 	<li>Ships</li>
@@ -199,10 +203,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 		
 	<li>Weapons</li>
 		<li>Use FirearmsDB</li>
-
-=========================
-
-<li>Glowsticks</li> <!-- PROJECT! -->
 
 =========================
 
@@ -257,7 +257,8 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 	<li>Armor</li>
 
-	<li>Smart-Pistol</li>
+	<li>Weapos</li>
+		<li>Smart-Pistol</li>
 
 	<li>Mechs</li>
 	
