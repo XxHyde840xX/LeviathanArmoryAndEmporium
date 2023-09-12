@@ -41,16 +41,17 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 <li>Hyde's Garage</li> <!-- PROJECT! -->
 
-	<li>Calypso - Mobile Missile Launcher Platform</li>
+	<li>Calypso - Mobile Missile Launcher Platform</li> <!-- ASSET COLLECTION PHASE -->
 		<li>Connect to VE-Security Artillery Mechanic?</li>
 			<li>LGIS from Bill Doors' Glitterworld Weaponry compatibility</li>
-				<li>Rimatomics Integration</li>
+				<li>Bill Doors' Turret Collection Reskin for rocket/artillery assets</li>
+					<li>Rimatomics Integration</li>
 	
 	<li>Unicycle</li>
 	
 	<li>ATV</li>
 
-	<li>Motorcycles</li>
+	<li>Motorcycles</li> <!-- ART COMMISSION IN PROGRESS! -->
 		<li>Craigslist</li>
 			<li>Gixxer</li>
 				<li>Busa</li>
@@ -94,6 +95,38 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
+<li>Personal Mod Workbench</li> <!-- PROJECT! -->
+	<li>Steve's Glitter Glass Printer Kit-Bash</li>
+		<li>NEED ANIMATION ON THE PRINTER HEAD! SO COOL!</li>
+			<li>TMC/WTH/FIGMA/MEDICAL SUPPLEMENTS RESKIN for other assets</li>
+				<li>Nixie Tubes for completion ticks? If not, this idea goes back in the pile</li>
+	
+=========================
+
+<li>Gun Making!<li> <!-- PROJECT! -->
+	<li>ASSETS GALORE!</li>
+		<li>Kit-Bash</li>
+			<li>Firing-Modes</li>
+				<li>Silencers<li>
+				 <li>Laser Aiming Modules</li>
+				
+=========================
+
+<li>Walther P99 & Friends</li> <!-- PROJECT! -->
+	<li>RimmuNation & TMC Stuff</li>
+
+=========================
+
+<li>Double Minigun</li> <!-- PROJECT! -->
+	
+	<li>Switch from lethal to non-lethal</li>
+		<li>Reference: Lycoris Recoil Pistol</li>
+			<li>Rubber Bullets?</li>
+				<li>Firing Modes</li>
+					<li>Variants</li>
+
+=========================
+
 <li>Bowling Alley</li> <!-- PROJECT! -->
 
 =========================
@@ -114,31 +147,11 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Walther P99 & Friends</li> <!-- PROJECT! -->
-	<li>RimmuNation & TMC Stuff</li>
-
-=========================
-
 <li>BBQ Star - Food Translation</li> <!-- PROJECT! - IN PROGRESS - MOD HAS ISSUES -->
 
 =========================
 
-<li>Double Minigun</li> <!-- PROJECT! -->
-	
-	<li>Switch from lethal to non-lethal</li>
-		<li>Reference: Lycoris Recoil Pistol</li>
-			<li>Rubber Bullets?</li>
-				<li>Firing Modes</li>
-					<li>Variants</li>
-
-=========================
-
-<li>All The Hot Springs!</li> <!-- PROJECT! - IN PROGRESS -->
-
-<li>https://gitlab.com/nightcorp/dbh-vfec-thermae-compatibility</li>
-		<li>Combine this with Thermae Sounds & Hot-Springs/VE-Texture Variations</li>
-			<li>Reference for VE-Tex Patching</li>
-				<li>https://steamcommunity.com/sharedfiles/filedetails/?id=2797808742</li>
+<li>All The Hot Springs!</li> <!-- PROJECT! - ON GITHUB - NEEDS TESTING!-->
 				
 =========================
 
@@ -162,10 +175,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 		<li>Planet Express Ship</li>
 		<li>Amy's Convertible</li>
 		<li>Scooty-Puff Jr.</li>
-
-=========================
-
-<li>Nixie Tubes</li> <!-- PROJECT! -->
 
 =========================
 
@@ -245,6 +254,9 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 		
 	<li>Native American Culture</li>
 	
+	<li>Firearms</li>
+		<li>Colt C8 Canada</li>
+		
 =========================
 
 <li>Restaurant / Drive-Thru</li> <!-- PROJECT! -->
@@ -296,6 +308,10 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 =========================
 
 <li>LOGTH</li> <!-- PROJECT! -->
+
+=========================
+
+<li>Tech-Shades Collection</li> <!-- PROJECT! -->
 
 =========================
 
@@ -353,7 +369,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Vanilla Expanded Evente</li> <!-- PROJECT! -->
+<li>Vanilla Expanded Events</li> <!-- PROJECT! -->
 	
 	<li>More Purple Events</li>
 	
@@ -377,7 +393,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Rimflix Shows</li> <!-- PROJECT! -->
+<li>Rimflix Shows</li> <!-- PROJECT! - ON GITHUB - IN PROGRESS! -->
 	
 	<li>Talk to velcroboy regarding TMNT, Akira, and other clips</li>
 		<li>Bounty Hunters (Bebop)</li>
