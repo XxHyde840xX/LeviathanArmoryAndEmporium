@@ -33,10 +33,14 @@
 																														Mods Created & Compiled by: XxHyde840xX
 -->
 	
-=============================================================================================================================================================================================================
+==========================================================================================================================================================================================================
 THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCUMENT
-=============================================================================================================================================================================================================
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+==========================================================================================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<li>Amrita</li> <!-- COMPLETE! ON GITHUB! READY FOR RELEASE! MAY NEED TO ADDRESS BALANCING AND REMOVE RESEARCH TREE! -->
+<li>PsyObelisk</li> <!-- POTENTIAL PERFORMANCE ISSUES -->
+
 =========================
 
 <li>Hyde's Garage</li> <!-- PROJECT! -->
@@ -50,6 +54,10 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	<li>Unicycle</li>
 	
 	<li>ATV</li>
+	
+	<li>Comand Truck</li>
+	
+	<li>The Moose</li>
 
 	<li>Motorcycles</li> <!-- ART COMMISSION IN PROGRESS! -->
 		<li>Craigslist</li>
@@ -57,6 +65,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 				<li>Busa</li>
 					<li>Tenere</li>
 						<li>SW Speeder-Bike</li>
+							<li>Snowmobile</li>
 						<li>Bosozoku</li>
 					<li>Chopper</li>
 				<li>Cafe Racer</li>
@@ -82,36 +91,22 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 		<li>Engine Hoist</li>
 			
 	<li>Akira - Kandea's Bike</li>
+	
+	<li>Avro Arrow</li>
 
 =========================
 
-<li>LSR - Leviathan Systems Recovery</li> <!-- PROJECT! - IN PROGRESS -->
+<li>LSR - Leviathan Systems Recovery</li> <!-- PROJECT! - IN PROGRESS - REBRANDING LIKELY-->
 	<li>Use Empire of Streaex (Armor)</li> <!-- NEEDS CHANGELOG! MASSIVE WORK DONE! -->
 	
-	<li>Colt Canada "C8" Custom"</li> <!-- WIP -->
-		<li>Texture Tweaks & Functions</li>
-			<li>Winter Variant?</li>
-			
-	<li>XM4 Custom</li> <!-- WIP -->
-		<li>Texture Tweaks and Functions</li>
+	<li>Weapons<li>
+	
+	<li>Domintaor + Variants</li>
+		<li>Already have pistol templates</li>
+			<li>Integration w/ Bloody Mess/Death Acidifier</li>
 		
 	<li>Archotech Medicine</li>							
 		
-	<li>JGH Double Minigun?</li>
-		<li>Switch from lethal to non-lethal</li>
-			<li>Rubber Bullets?</li>
-				<li>Firing Modes</li>
-					<li>Variants</li>
-	
-	<li>Walther P99 & Friends</li>
-	
-	<li>Gun Making!<li>
-		<li>ASSETS GALORE!</li>
-			<li>Kit-Bash</li>
-				<li>Firing-Modes</li>
-					<li>Silencers<li>
-						<li>Laser Aiming Modules</li>
-	
 	<li>Glitter-Wine</li>
 	
 	<li>Glitter-Tech Rations/MRE</li>
@@ -123,30 +118,49 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	<li>Yukusukyuru</li> 
 		<li>Resource Muffaloes As Template</li>
 		
-<li>Titanfall Stuff</li> 
-	<li>Armor</li>
-		<li>Weapons</li>
-			<li>Mechs/Titans</li>
+	<li>Titanfall Stuff</li> 
+		<li>Armor</li>
+			<li>Weapons</li>
+				<li>Mechs/Titans</li>
+				
+	<li>Holograms</li>
 
-=========================
+	<li>Spaceweed Stuff</li>
+		<li>Red Hash</li>
+			<li>Cigars</li>
+			
+	<li>Carbonite</li>
+	
+	<li>Capsule Corp</li>
 
-<li>Psycho-Pass</li> <!-- PROJECT! -->
-	
-	<li>Domintaor + Variants</li>
-		<li>Already have pistol templates</li>
-			<li>Integration w/ Bloody Mess/Death Acidifier</li>
-	
-	<li>Vehicles and Mechs</li>
-	
-	<li>Sibyl System</li>
-	
-	<li>HUE</li>
-	
-	<li>Implants + Bionics</li>
+	<li>FF7</li>
+			<li>Buster Sword & HardedgeNeed to "De-Jecs" the mod</li>
+				<li>Mobs</li>
+					<li>Summons</li>
+						<li>Motorcycle</li>
+							<li>Gelnika</li>
+								<li>Truck</li>
+									<li>Highwind</li>
+										<li>Tiny Bronco</li>
+									<li>Train</li>
+								<li>Materia</li>
+							<li>Mako</li>
+						<li>Junon Cannon</li>
+					<li>Wall Market</li>
+				<li>Golden Saucer</li>
+			<li>Weapons (BOTH KINDS)</li>
 	
 =========================
 
 <li>South-Korea's Kimchi & Fried Rice</li> <!-- PROJECT - ON GITHUB - NEEDS TESTING - MOD HAS ISSUES -->
+
+=========================
+
+<li>BBQ Star - Food Translation</li> <!-- PROJECT! - IN PROGRESS - MOD HAS ISSUES -->
+
+=========================
+
+<li>All The Hot Springs!</li> <!-- PROJECT! - ON GITHUB - NEEDS TESTING TO REWRITE-->
 
 =========================
 
@@ -160,24 +174,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 <li>ROM - Bones Remastered</li> <!-- PROJECT! -->
 	<li>Bones Enchantment</li>
 		<li>Outland - Core</li>
-
-=========================
-
-<li>Spaceweed Stuff</li> <!-- PROJECT! -->
-	<li>Red Hash</li>
-		<li>Cigars</li>
-
-=========================
-
-<li>BBQ Star - Food Translation</li> <!-- PROJECT! - IN PROGRESS - MOD HAS ISSUES -->
-
-=========================
-
-<li>All The Hot Springs!</li> <!-- PROJECT! - ON GITHUB - NEEDS TESTING!-->
-				
-=========================
-
-<li>Carbonite</li> <!-- PROJECT! -->
 
 =========================
 
@@ -211,40 +207,6 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 =========================
 
-<li>Cowboy Bebop</li> <!-- PROJECT! -->
-
-	<li>Ships</li>
-		<li>Already have stuff working for SRTS. Need to convert to VF</li>
-		
-	<li>Weapons</li>
-		<li>Use FirearmsDB</li>
-
-=========================
-
-<li>Canada / Canadian Stuff</li> <!-- PROJECT! -->
-	
-	<li>Ice Skating and Hockey</li>
-	
-	<li>Avro Arrow</li>
-	
-	<li>Patricia's Misc Consumables</li>
-		<li>MAPLE COLLAB</li>
-	
-	<li>Poutine</li>
-	
-	<li>Terrence & Phillip</li>
-	
-	<li>Snowmobile</li>
-	
-	<li>Most Canadian Scenario</li>
-		<li>https://steamcommunity.com/sharedfiles/filedetails/?id=807920508&searchtext=kid</li>
-		
-	<li>Native American Culture</li>
-	
-	<li>Firearms</li>
-		
-=========================
-
 <li>City Stuff!</li> <!-- PROJECT! -->
 
 <li>Restaurant / Drive-Thru</li>
@@ -254,73 +216,7 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 
 =========================
 
-<li>Capsule Corp</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Brrrt on a Swegway!</li> <!-- PROJECT! -->
-	
-=========================
-
-<li>Anime and TV Stuff</li> <!-- PROJECT! -->
-	
-	<li>Samurai Champloo</li>
-		<li>Redline Anime</li>
-			<li>Space Dandy</li>
-				<li>LOGTH</li>
-					<li>Venture Bros</li>
-						<li>Golden Kamuy</li>
-
-=========================
-
 <li>Classical Music Expanded</li> <!-- PROJECT! -->
-
-=========================
-
-<li>FF7</li> <!-- PROJECT! -->
-	
-	<li>Buster Sword & HardedgeNeed to "De-Jecs" the mod</li>
-	
-	<li>Mobs</li>
-	
-	<li>Summons</li>
-	
-	<li>Vehicles</li>
-		<li>Motorcycle</li>
-			<li>Gelnika</li>
-				<li>Truck</li>
-					<li>Highwind</li>
-						<li>Tiny Bronco</li>
-							<li>Train</li>
-	
-	<li>Materia</li>
-	
-	<li>Mako</li>
-	
-	<li>Junon Cannon</li>
-	
-	<li>Wall Market</li>
-	
-	<li>Golden Saucer</li>
-	
-=========================
-
-<li>Vanilla Expanded Events</li> <!-- PROJECT! -->
-	<li>More Purple Events</li>
-	
-=========================
-
-<li>Vampire Castle and Faction</li> <!-- PROJECT! -->
-	<li>Rip Castle Branne Stuff</li>
-		<li>Blade: Trilogy</li>
-	
-=========================
-
-<li>Collectible Zippos</li> <!-- PROJECT! -->
-
-=========================
-
-<li>Golf Course</li> <!-- PROJECT! -->
 
 =========================
 
@@ -330,14 +226,11 @@ THE LEVIATHAN ARMORY & EMPORIUM - RIMWORLD MODS AND IDEAS - A LIVING DESIGN DOCU
 	
 =========================
 
-<li>Portuguese Food</li> <!-- PROJECT! -->
-	<li>Brigaderio - Not Portuguese, But Close!</li>
-	
-=========================
-
 <li>CHOICE CHOPS V3 - FINAL</li>
 	
 		<li>AOC's FIDO Mechanoid</li>
 			<li>AOC Trampoline</li>
-				<li>TMC Snipers</li>
-					<li>Reaper/Terra</li>
+				<li>Reaper/Terra</li>
+					<li>Colt Canada "C8" Custom"</li> <!-- TEXTURE DONE! SOUNDS FROM CON! NEED PERMISSIONS FROM TMC UNLESS PERSONAL USE ONLY! NEED FUNCTIONS! -->
+						<li>Walther P99</li> <!-- IN PROGRESS! NEED PERMISSIONS FROM TMC UNLESS PERSONAL USE ONLY! -->
+							<li>Walther WA2000</li>
